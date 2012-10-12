@@ -1,0 +1,20 @@
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/38403b1a69911d08c1568c9209603eeb/0/ to M:/www/modx-git/index.php
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/38403b1a69911d08c1568c9209603eeb/1/ to M:/www/modx-git/ht.access
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/0/ to M:/www/modx-git/manager/assets
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/1/ to M:/www/modx-git/manager/controllers
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/2/ to M:/www/modx-git/manager/templates
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/3/ to M:/www/modx-git/manager/min
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/4/ to M:/www/modx-git/manager/ht.access
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/5/ to M:/www/modx-git/manager/cache.manifest.php
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not copy M:/www/modx-git/core/packages/core/modContext/f8cd6547c7a7bf6de30c5562715c1400/6/ to M:/www/modx-git/manager/index.php
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/6ae515cd3d51d3304186ca1a35b8af67/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/144f3768cbf38d33e0f2d419473fe007/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/675d1f15b30f1cc4684852414ef19171/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/c306bbe85a262e071a916a9229a31d14/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/b85911887b6ab95075461ab0f25447ed/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/14a39b5f8db9cf363af89a1c255a20d7/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/54a668a9788557bf734e4338a9144f34/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/7ed5628b3a84ee40c78d73580491ffe8/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/e89f3c5206374c876ffaa24e0f67e953/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/1cf65824915503e8b277e9d8b8dab476/ to M:/www/modx-git/connectors/
+[2012-09-30 01:39:06] (ERROR @ /setup/index.php) Could not install files from M:/www/modx-git/core/packages/core/xPDOFileVehicle/538c8031709fc7ec30824fe36f3ebea6/ to M:/www/modx-git/connectors/
