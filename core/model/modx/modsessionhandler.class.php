@@ -169,7 +169,6 @@ class modSessionHandler {
      */
     protected function _getSession($id, $autoCreate= false) {
         $this->session= $this->modx->getObject('modSession', $id, $this->cacheLifetime);
-
         if ($autoCreate && !is_object($this->session)) {
             $this->session= $this->modx->newObject('modSession');
             $this->session->set('id', $id);

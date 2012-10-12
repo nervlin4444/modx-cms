@@ -1,5 +1,4 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT']."/../kevin.tools");
 /**
  * Google minify implementation for MODX manager
  * @package modx
@@ -72,6 +71,9 @@ if (!empty($min_serveOptions['minApp']['virtualDirs'])) {
 $min_uploaderHoursBehind = 0;
 $min_libPath = dirname(__FILE__) . '/lib';
 @ini_set('zlib.output_compression', (int)$modx->getOption('manager_js_zlib_output_compression',null,0));
+
+// MODX session no longer required
+@session_write_close();
 
 // setup include path
 @set_include_path($min_libPath . PATH_SEPARATOR . get_include_path());
